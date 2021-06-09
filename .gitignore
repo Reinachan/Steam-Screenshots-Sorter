@@ -1,0 +1,18 @@
+# Testing folder
+/screenshots
+
+# Environment files
+.vscode
+
+# Exe distribution folders
+/Steam Screenshots Sorter.build
+/Steam Screenshots Sorter.dist
+/Steam Screenshots Sorter.onefile-build
+dist
+build
+
+# Python cache
+__pycache__
+
+# Caching file to reduce network spam
+/games_cache.csv
