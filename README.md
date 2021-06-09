@@ -25,3 +25,7 @@ Please, if you got any use out of my work, donate so I'm able to continue coding
 **OMG**: 0xea90e92aFd82177Edbf4F49A86a132A9Fb63E216<br>
 **USDC**: 0xfa40F956a28e66B8ee0d88E6ceBD1fba02BB30B5<br>
 **DOGE**: DHZtSJjFpmYVZSDQeuMWTFfxdZ61huTtJr<br>
+
+## Credit Me
+
+If you use any of my code, remember to credit me properly according to the license. If you make money off of my code, please kindly refer to the section above and donate some of it my way, thank you :)
