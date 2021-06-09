@@ -14,6 +14,8 @@ Download the zip file in the [releases](#) tab and extract the contents of it in
 
 Open the directory you unzipped to in a terminal and input `pip install pipenv` (You may need to run an elevated shell. Sudo on Linux, open as admin on Windows). Once that's done, run `pipenv install`
 
+To go to a directory do `cd "path/to/folder"`. You can copy the path from your file explorer and paste after `cd`
+
 ### Run script
 
 Everything should be setup and ready to go now. Just open the folder you placed the script in, in a terminal and run `pipenv run python -m _main`. It doesn't matter if there's already images in the folder or if you drop new ones into it. If you want the script to stop running, click `ctrl + c`.
