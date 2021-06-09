@@ -4,6 +4,8 @@ Automatically sorts all your Steam screenshots into folders based on the name of
 
 ## Install
 
+In the future I want to simplify this, but for now, you'll have to do some additional steps.
+
 Fetch Python 3.9.5 or newer from [the official site](https://www.python.org/downloads/release)
 
 Download the zip file in the [releases](#) tab and extract the contents of it in the folder of your unsorted screenshots (still beta, I recommend keeping a backup. It probably won't mess anything up, but it _could_)
