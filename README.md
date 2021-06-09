@@ -4,8 +4,6 @@ Automatically sorts all your Steam screenshots into folders based on the name of
 
 ## Install
 
-In the future I want to simplify this, but for now, you'll have to do some additional steps.
-
 Fetch Python 3.9.5 or newer from [the official site](https://www.python.org/downloads/release)
 
 Download the zip file in the [releases](#) tab and extract the contents of it in the folder of your unsorted screenshots (still beta, I recommend keeping a backup. It probably won't mess anything up, but it _could_)
@@ -17,6 +15,10 @@ Open the directory you unzipped to in a terminal and input `pip install pipenv` 
 ### Run script
 
 Everything should be setup and ready to go now. Just open the folder you placed the script in, in a terminal and run `pipenv run python -m _main`. It doesn't matter if there's already images in the folder or if you drop new ones into it. If you want the script to stop running, click `ctrl + c`.
+
+## Planned
+
+In the future I want to simplify the setup/installation process, but for now, you'll have to do with installing stuff manually.
 
 ## Sponsor Me
 
