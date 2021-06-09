@@ -2,6 +2,8 @@
 
 Automatically sorts all your Steam screenshots into folders based on the name of the game. It runs as a background process and listens for new files, so if you place it in the same folder that Steam saves your screenshots, it will automatically sort it for you. This makes it slightly easier to find that one great screenshot you did a long time ago that you dread looking for because it's burried too deep.
 
+You may need to save screenshots as png's for this to work. `Steam > Settings > In-Game > Save an uncompressed copy`.
+
 ## Install
 
 Fetch Python 3.9.5 or newer from [the official site](https://www.python.org/downloads/release)
