@@ -2,6 +2,8 @@
 
 Automatically sorts all your Steam screenshots into folders based on the name of the game. It runs as a background process and listens for new files, so if you place it in the same folder that Steam saves your screenshots, it will automatically sort it for you. This makes it slightly easier to find that one great screenshot you did a long time ago that you dread looking for because it's burried too deep.
 
+![image](https://user-images.githubusercontent.com/16106839/121523083-1bc58780-c9f6-11eb-8c87-791420d5b6d8.png)
+
 Consider [supporting me](https://github.com/Reinachan/Steam-Screenshots-Sorter#sponsor-me) if you like this.
 
 You may need to save screenshots as png's for this to work. `Steam > Settings > In-Game > Save an uncompressed copy`.
