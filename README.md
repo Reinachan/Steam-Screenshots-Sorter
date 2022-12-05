@@ -40,17 +40,3 @@ SteamScreenshots/ # The name is irrelevant
 ## Planned
 
 In the future I want to simplify the setup/installation process, but for now, you'll have to do with installing stuff manually.
-
-## Sponsor Me
-
-Please, if you got any use out of my work, donate so I'm able to continue coding like this. Sponsor me [directly](https://github.com/sponsors/Reinachan) on GitHub or give me some crypto so that I can continue doing what I love :)
-
-**BTC**: 3CYuRVKrwbrpNavSuKFPrnSUsVYkahwAzs<br>
-**MATIC**: 0x3965F4F9d3233b0470b82863Fb102Cc5e22347b3<br>
-**OMG**: 0xea90e92aFd82177Edbf4F49A86a132A9Fb63E216<br>
-**USDC**: 0xfa40F956a28e66B8ee0d88E6ceBD1fba02BB30B5<br>
-**DOGE**: DHZtSJjFpmYVZSDQeuMWTFfxdZ61huTtJr<br>
-
-## Credit Me
-
-If you use any of my code, remember to credit me properly according to the license. If you make money off of my code, please kindly refer to the section above and donate some of it my way, thank you :)
